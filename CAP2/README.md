@@ -6,5 +6,8 @@ Data wrangling, EDA, preprocessing, and modeling
 ## Project documentation
 Report and slide deck
 
+## Final project files
+Complete final submissions under 'final'
+
 # Dataset
 Sourced from WDBC dataset of fine needle aspirate samples and nuclear data for each. Every nuclear feature is captured in the data by measurement mean, max/worst, and standard deviation
